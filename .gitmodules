@@ -4,3 +4,6 @@
 [submodule "AP1400-2-HW2"]
 	path = AP1400-2-HW2
 	url = https://github.com/sbwcwso/AP1400-2-HW2
+[submodule "AP1400-2-HW3"]
+	path = AP1400-2-HW3
+	url = https://github.com/sbwcwso/AP1400-2-HW3
